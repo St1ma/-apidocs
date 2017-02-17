@@ -3,7 +3,7 @@
 
 ## Request
 
-    POST https://sarepta-api-dev.nof1health.com/participant/trainingData/subject-id
+    POST https://sarepta-api-dev.nof1health.com/participant/trainingData
 
 ```javascript
 
