@@ -88,7 +88,7 @@
               "skippedReason": "illness"
             },
             "deviceInfo": {
-              "captured": "true",
+              "captured": "false",
               "deviceId": "cd04c413-21b0-4a4f-99c1-0e82fb16ca68"
             }
           }
