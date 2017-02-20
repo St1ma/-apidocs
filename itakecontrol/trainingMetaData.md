@@ -17,7 +17,8 @@
             "choiseActivity"  : "Soccer",   // Name of Choice assessment
             "walkingLocation" : "Home",     // Location for Walking (Front View and Side View) and Standing assesment
             "stairsLocation"  : "Home",     // Location for Stairs assesment
-            "choiceLocation"  : "School"    // Location for Choice assesment
+            "choiceLocation"  : "School"    // Location for Choice assesment,
+            "isIntroductionComplete" : true // Is introduction module was submited
         }
     }
 
